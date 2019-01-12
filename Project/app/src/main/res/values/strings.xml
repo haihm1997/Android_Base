@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tickket.App</string>
+    //error message
+    <string name="alert_msg_noconnection">インターネットへの接続がありません…\n ネットワークに接続してください</string>
+    <string name="alert_update_version">アプリをアップデートする必要があります</string>
+    <string name="error_message">エラーが発生しました。しばらくたってやり直すか、お問い合わせください</string>
+    <string name="main_tab_schedule">Schedule</string>
+    <string name="main_tab_dictionary">Dictionary</string>
+    <string name="main_tab_setting">Other</string>
+</resources>
